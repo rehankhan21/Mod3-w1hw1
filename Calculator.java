@@ -95,7 +95,7 @@ public class Calculator {
 		case 5:
 			exit();
 			break;
-			
+		default: System.out.println("Invalid Entry, Try Again");
 		}
 
 	}
